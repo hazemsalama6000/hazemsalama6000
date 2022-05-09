@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-#### Bizness
+<!--#### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: ipenywis@gmail.com-->
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hazemsalama6000.hazemsalama6000)
 
 <details>
 <summary>
@@ -83,7 +83,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![hazemsalama6000's github stats](https://github-readme-stats.vercel.app/api?username=hazemsalama6000&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
