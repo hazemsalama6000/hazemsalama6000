@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hazemsalama6000.hazemsalama6000)
 
-<details>
-<summary>
+<!--<details>-->
+<!--<summary>
   More stuff about me
 </summary>
 
@@ -79,25 +79,13 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### What is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.-->
 
 #### Github Stats
 
 ![hazemsalama6000's github stats](https://github-readme-stats.vercel.app/api?username=hazemsalama6000&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+<!--</details>-->
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
