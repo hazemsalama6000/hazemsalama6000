@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Good Ideas
 - 📫 How to reach me: 01147785304
-- 😄 Pronouns: Hazem
 - ⚡ Fun fact: I Play games like fifa
 
 
